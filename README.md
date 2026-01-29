@@ -10,9 +10,9 @@ Hi 👋 I’m a FULL Stack Developer exploring AI-powered applications.<br><br>�
 
 ## 📊 GitHub Stats
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-d9&show_icons=true&theme=dark&hide_border=true)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay-d9&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-d9&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-d9&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vinay-d9&theme=dark&hide_border=true)
 
