@@ -33,18 +33,13 @@ Hi 👋 I’m Vinay, a Software Engineer with a strong foundation in full-stack 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vinay-d9&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-d9&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay-d9&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-d9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 
 ## 🌱 Currently Focusing On
