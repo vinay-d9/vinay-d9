@@ -36,12 +36,16 @@ Hi 👋 I’m Vinay, a Software Engineer with a strong foundation in full-stack 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay-d9&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vinay-d9&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-d9&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-d9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🌱 Currently Focusing On
 
