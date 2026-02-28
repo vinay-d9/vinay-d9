@@ -102,8 +102,9 @@ Hi 👋 I’m Vinay, a Software Engineer with a strong foundation in full-stack 
 - Learning **Git workflows** and project structuring
 - Exploring automation and backend fundamentals
 - Integrating AI APIs into web applications
+- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 > “1% Better EveryDay.” 🚀
 
