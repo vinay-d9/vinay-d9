@@ -11,13 +11,15 @@ Hi 👋 I’m Vinay, a Software Engineer with a strong foundation in full-stack 
 - 📚 Continuously improving fundamentals in Data Structures, Algorithms, and system design
 - 📫 Reach me at: vinayduba.cs@gmail.com
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-duba-560b5228b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayduba.cs@gmail.com)
 
-
-## 🛠 Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
@@ -74,6 +76,8 @@ Hi 👋 I’m Vinay, a Software Engineer with a strong foundation in full-stack 
 </table>
 
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 📊 GitHub Stats
 
